@@ -11,7 +11,7 @@ Before clicking on deploy to heroku just click on fork and star just below
     <img src="https://img.shields.io/github/forks/TamilBots/TamilVCMusic?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/TamilBots/TamilVCMusic">
+  <a href="https://github.com/govindpanwar50/TamilVCMusic">
     <img src="https://img.shields.io/github/stars/TamilBots/TamilVCMusic?style=social">
   </a>
 </p>
